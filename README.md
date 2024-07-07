@@ -3,7 +3,7 @@
 
 
 ## Linguagens mais usadas
-![Dayvd Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayvd100&theme=white-blue)
+![Dayvd Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayvd100&theme=white-red)
 
 
 
