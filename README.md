@@ -1,11 +1,11 @@
-# Olá, eu sou o Dayvd, desenvolvedor backend😃
+# Hello, I'm Dayvd, backend developer😃
 
 
 
-## Linguagens mais usadas
+## Most used languages
 ![Dayvd Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayvd100&theme=white)
 
-## Conhecimento
+## Knowledge
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
