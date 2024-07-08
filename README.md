@@ -3,7 +3,7 @@
 
 
 ## Most used languages
-![Dayvd Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayvd100&theme=white)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayvd100&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayvd100&layout=pie)](https://github.com/anuraghazra/github-readme-stats)    ![Dayvd Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayvd100&theme=white)  
 
 ## Knowledge
 
