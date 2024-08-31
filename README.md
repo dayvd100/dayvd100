@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, my name is Dayvd
 
-<!--
-**dayvd100/dayvd100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a backend developer specializing in Python, with expertise in web development and databases. I am currently focused on building robust and efficient solutions using FastAPI and Django. I have a strong interest in testing and continuous integration, and I'm passionate about learning new technologies and improving my knowledge in data engineering and data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools
+
+- Programming Languages: Python
+- Frameworks: FastAPI, Django
+- Databases: SQLAlchemy, PostgreSQL, MySQL
+- Testing: Pytest, Unittest
+- DevOps: Docker, CI/CD
