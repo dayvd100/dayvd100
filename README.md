@@ -8,11 +8,12 @@ I am a backend developer specializing in Python, with expertise in web developme
 
 ## Technologies and Tools
 
-- **Programming Languages**: Python
-- **Frameworks**: FastAPI, Django
-- **Databases**: SQLAlchemy, PostgreSQL, MySQL
-- **Testing**: Pytest, Unittest
-- **DevOps**: Docker, CI/CD
+- ![Python](https://img.icons8.com/color/48/000000/python.png) **Programming Languages**: Python
+- ![FastAPI](https://img.icons8.com/color/48/000000/fastapi.png) **Frameworks**: FastAPI
+- ![Django](https://img.icons8.com/color/48/000000/django.png) Django
+- ![SQLAlchemy](https://img.icons8.com/external-flat-juicy-fish/48/external-sqlalchemy-data-engineering-flat-flat-juicy-fish.png) **Databases**: SQLAlchemy, PostgreSQL, MySQL
+- ![Pytest](https://img.icons8.com/color/48/000000/pytest.png) **Testing**: Pytest, Unittest
+- ![Docker](https://img.icons8.com/color/48/000000/docker.png) **DevOps**: Docker, CI/CD
 
 ## Get in Touch
 - 📫 Email: allysondayvd@gmail.com
