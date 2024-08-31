@@ -9,8 +9,7 @@ I am a backend developer specializing in Python, with expertise in web developme
 ## Technologies and Tools
 
 - 🐍 **Programming Languages**: Python
-- 🚀 **Frameworks**: FastAPI
-- 🐍 **Frameworks**: Django
+- 🚀 **Frameworks**: FastAPI, Django
 - 🗃️ **Databases**: SQLAlchemy, PostgreSQL, MySQL
 - 🧪 **Testing**: Pytest, Unittest
 - 🐳 **DevOps**: Docker, CI/CD
