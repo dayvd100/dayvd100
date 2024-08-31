@@ -6,11 +6,11 @@ I am a backend developer specializing in Python, with expertise in web developme
 
 ## Technologies and Tools
 
-- *Programming Languages*: Python
-- *Frameworks*: FastAPI, Django
-- *Databases*: SQLAlchemy, PostgreSQL, MySQL
-- *Testing*: Pytest, Unittest
-- *DevOps*: Docker, CI/CD
+- **Programming Languages**: Python
+- **Frameworks**: FastAPI, Django
+- **Databases**: SQLAlchemy, PostgreSQL, MySQL
+- **Testing**: Pytest, Unittest
+- **DevOps**: Docker, CI/CD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayvd100&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
