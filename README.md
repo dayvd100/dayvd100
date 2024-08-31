@@ -11,3 +11,7 @@ I am a backend developer specializing in Python, with expertise in web developme
 - Databases: SQLAlchemy, PostgreSQL, MySQL
 - Testing: Pytest, Unittest
 - DevOps: Docker, CI/CD
+
+## Get in Touch
+📫 Email: allysondayvd@gmail.com
+🔗 LinkedIn: Dayvd Allyson
