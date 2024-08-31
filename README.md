@@ -13,5 +13,5 @@ I am a backend developer specializing in Python, with expertise in web developme
 - DevOps: Docker, CI/CD
 
 ## Get in Touch
-📫 Email: allysondayvd@gmail.com
-🔗 LinkedIn: Dayvd Allyson
+- 📫 Email: allysondayvd@gmail.com
+- 🔗 LinkedIn: Dayvd Allyson
